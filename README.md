@@ -5,5 +5,5 @@ The main idea of developing the YouTube downloader is that due to the Ease of av
 Run : Code.py file
 
 # Screenshots :
-![Alt text](https://github.com/kashyap-parmar/YouTube_video_downloader_using_Python/img/back.jpg)
+![Alt text](https://github.com/kashyap-parmar/YouTube_video_downloader_using_Python/blob/main/img/back.jpg)
 
