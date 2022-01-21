@@ -6,4 +6,6 @@ Run : Code.py file
 
 # Screenshots :
 ![Alt text](https://github.com/kashyap-parmar/YouTube_video_downloader_using_Python/tree/main/img/back.jpg)
+![alt text](https://github.com/kashyaprparmar/YouTube_video_downloader_using_Python/blob/main/img/back.jpg)
+
 
